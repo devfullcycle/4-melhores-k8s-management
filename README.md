@@ -4,7 +4,7 @@ Gerenciar clusters Kubernetes pode ser complexo, especialmente em ambientes de p
 
 Neste vídeo vamos explorar 4 ferramentas populares de gerenciamento de Kubernetes: Kubernetes Dashboard, K9s, Lens e Portainer. Nós vamos examinar as características de cada uma, compará-las e demonstrar como usá-las em cenários comuns.
 
-Vídeo no YouTube: [4 Ferramentas de Gerenciamento de Kubernetes: Kubernetes Dashboard, K9s, Lens e Portainer](https://www.youtube.com/watch?v=3vQ2f9pJ5Zk)
+Vídeo no YouTube: [4 Ferramentas de Gerenciamento de Kubernetes: Kubernetes Dashboard, K9s, Lens e Portainer](https://www.youtube.com/watch?v=Eu3uZP44toQ)
 
 ## Kubernetes Dashboard
 
